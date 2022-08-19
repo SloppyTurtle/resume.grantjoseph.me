@@ -1,8 +1,8 @@
 # Page settings
 
-baseurl = "http://example.org/"
+baseurl = "resume.grantjoseph.me"
 languageCode = "en-us"
-title = "John Doe Resume"
+title = "Grant Joseph Resume"
 theme = "hugo-orbit-theme"
 googleAnalytics = "UA-XXXXXXX-Y"
 
@@ -30,9 +30,9 @@ disable404 = true
 
     # Profile section
     [params.profile]
-        name = "John Doe"
-        tagline = "Full Stack Developer"
-        avatar = "profile.png"
+        name = "Grant Joseph"
+        tagline = "Security Professional"
+        avatar = ""
 
     # Contact section
     [params.contact]
@@ -41,38 +41,34 @@ disable404 = true
         [[params.contact.list]]
         class = "email"
         icon = "fa-envelope"
-        url = "mailto: yourname@email.com"
-        title = "john.doe@website.com"
+        url = "mailto: grant@josephs.us"
+        title = "grant@josephs.us"
 
         [[params.contact.list]]
         class = "phone"
         icon = "fa-phone"
-        url = "tel:+1234567890"
-        title = "+1234567890"
+        url = "tel:217.370.9684"
+        title = "217.370.9684"
 
         [[params.contact.list]]
         class = "website"
         icon = "fa-globe"
-        url = "//portfoliosite.com"
-        title = "portfoliosite.com"
+        url = "https://grantjoseph.me/"
+        title = "grantjoseph.me"
 
         [[params.contact.list]]
         class = "linkedin"
         icon = "fa-linkedin"
-        url = "//linkedin.com/in/johndoe"
-        title = "linkedin.com/in/johndoe"
+        url = "https://www.linkedin.com/in/grant-joseph-35b359116/"
+        title = "LinkedIn"
 
         [[params.contact.list]]
         class = "github"
         icon = "fa-github"
-        url = "//github.com/username"
-        title = "github.com/username"
+        url = "https://github.com/SloppyTurtle"
+        title = "Github"
 
-        [[params.contact.list]]
-        class = "twitter"
-        icon = "fa-twitter"
-        url = "//twitter.com/username"
-        title = "@twittername"
+
 
     # Education section
     [params.education]
@@ -80,14 +76,9 @@ disable404 = true
         title = "Education"
 
         [[params.education.list]]
-        degree = "MSc in Computer Science"
-        college = "University of London"
-        dates = "2006 - 2010"
+        college = "Jacksonville High School"
+        dates = "2003 - 2007"
 
-        [[params.education.list]]
-        degree = "BSc in Applied Mathematics"
-        college = "Bristol University"
-        dates = "2007 - 2011"
 
     # Languages section
     [params.language]
@@ -98,13 +89,6 @@ disable404 = true
         language = "English"
         level = "Native"
 
-        [[params.language.list]]
-        language = "French"
-        level = "Professional"
-
-        [[params.language.list]]
-        language = "Russian"
-        level = "Professional"
 
     # Interests section
     [params.interests]
@@ -112,10 +96,10 @@ disable404 = true
         title = "Interests"
 
         [[params.interests.list]]
-        interest = "Climbing"
+        interest = "My Pets"
 
         [[params.interests.list]]
-        interest = "Snowboarding"
+        interest = "Gaming"
 
         [[params.interests.list]]
         interest = "Cooking"
@@ -129,7 +113,7 @@ disable404 = true
         enable = true
         icon = "fa-user"
         title = "Career Profile"
-        summary = "**Summarise your career here** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu."
+        summary = "Staying up to date on current IT practices, processes and technology to develope and initiate our organization's goals and objectives."
 
     # Experiences section
     [params.experiences]
@@ -138,26 +122,44 @@ disable404 = true
         title = "Experiences"
 
         [[params.jobs.list]]
-        position = "Lead Developer"
-        dates = "2015 - Present"
-        company = "Startup Hubs, San Francisco"
-        details = "**Describe your role here** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.\n\n Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+        position = "Information Technology Engineer"
+        dates = "05/2022 - Present"
+        company = "Central Laborers Pension Fund"
+        details = "Window Server/VMware administration and maintenance **-** PC, VoIP and Network management - Supporting Central Laborers’ security policies and activities for network, system and application vulnerability mitigation/management and continuous monitoring of said systems **-**  Setting and enforcing best practices related to security and continuing improvement of security protocols **-** Scan systems for vulnerabilities confirming adherence to security standards"
 
         [[params.jobs.list]]
-        position = "Senior Software Engineer"
-        dates = "2014 - 2015"
-        company = "Google, London"
-        details = "**Describe your role here** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
+        position = "IT/IS Officer"
+        dates = "10/2021 - 05/2022"
+        company = "Alliance Community Bank"
+        details = "I oversee the direction and operation of the technical infrastructure of the organization, management of projects, budgets, and vendor relationships **-** I am responsible for information security and IT risk management based on industry accepted frameworks **-** I manage our cyber security structure, policies and processes and I am the chair of our IT committee **-** I am a hands-on manager who is the primary technical-infrastructure and security expert in the company. This includes PC and network (LAN/WAN) support and planning, information security and VOIP system/voice communications **-** I also serve as the primary liaison with bank audit and regulatory examination teams to ensure the safe, secure, and compliant im- plementation of industry and bank regulatory policy requirements and regulations"
 
         [[params.jobs.list]]
-        position = "UI Developer"
-        dates = "2012 - 2014"
+        position = "IT Manager"
+        dates = "09/2020 - 10/2021"
         company = "Amazon, London"
-        details = "**Describe your role here** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
+        details = "Managing and determining time frames for major information technology projects including system updates, upgrades, migrations and outages **-** Leading technical projects that include our electronic and automation teams **-** Managing and reporting on allocation of IT budget and purchasing **-** Support and manage all computer/network hardware at assigned location **-** Work with end users and propose new hardware and software solutions to support the business **-** Test all hardware, operating systems and software modifications before they are introduced into production **-** Provide hardware and software diagnostics for network, hardware and software issues **-** Overseeing technology projects in compliance with IT standards **-** Provide hardware and network support for “Production Floor” computer systems"
+
+        [[params.jobs.list]]
+        position = "IT Field Technician"
+        dates = "04/2019 - 09/2020"
+        company = "JBS USA"
+        details = "Support and manage all computer/network hardware at assigned location **-** Work with end users and propose new hardware and software solutions to support the business **-** Test all hardware, operating systems and software modifications before they are introduced into production **-** Provide hardware and software diagnostics for network, hardware and software issues **-** Overseeing technology projects in compliance with IT standards **-** Provide hardware and network support for “Production Floor” computer systems."
+
+        [[params.jobs.list]]
+        position = "IT Support Technician"
+        dates = "12/2016 - 04/2019"
+        company = "Prairieland FS, Inc"
+        details = "I provide technical support to all company locations including server management, implementation/installation of hardware, developing and maintaining standards for hardware and network usage, managing hardware and operating licensing/contracts and customer support for the employees."
+
+        [[params.jobs.list]]
+        position = "District Technicain"
+        dates = "01/2015 - 12/2016"
+        company = "Jacksonville School District"
+        details = "I provide on-site computer support and hardware repair, trouble shooting of the technology used in the class rooms and regular maintenance of the electronics throughout the district."
 
     # Projects section
     [params.projects]
-        enable = true
+        enable = false
         icon = "fa-archive"
         title = "Projects"
         intro = "**You can list your side projects or open source libraries in this section.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus"
@@ -194,28 +196,84 @@ disable404 = true
         title = "Skills & Proficiency"
 
         [[params.skills.list]]
-        skill = "Python & Django"
+        skill = "Windows"
         level = "98%"
                 
         [[params.skills.list]]
-        skill = "Javascript & jQuery"
-        level = "98%"
+        skill = "Linux"
+        level = "15%"
 
         [[params.skills.list]]
-        skill = "Angular"
+        skill = "Active Directory"
+        level = "90%"
+
+        [[params.skills.list]]
+        skill = "SecureWorks IDS"
+        level = "80%"
+
+        [[params.skills.list]]
+        skill = "ESET"
+        level = "90%"
+
+        [[params.skills.list]]
+        skill = "VMWare"
+        level = "9585%"
+
+        [[params.skills.list]]
+        skill = "SentinelOne"
         level = "95%"
 
         [[params.skills.list]]
-        skill = "HTML5 & CSS"
-        level = "95%"
+        skill = "Audit & Compliance"
+        level = "85%"
 
         [[params.skills.list]]
-        skill = "Ruby on Rails"
-        level = "75%"
+        skill = "Proofpoint"
+        level = "90%"
 
         [[params.skills.list]]
-        skill = "Sketch & Photoshop"
+        skill = "Tenable"
+        level = "80%"
+
+        [[params.skills.list]]
+        skill = "Graylog"
         level = "60%"
+
+        [[params.skills.list]]
+        skill = "KnowBe4"
+        level = "95%"
+
+        [[params.skills.list]]
+        skill = "PCI Compliance"
+        level = "85%"
+
+        [[params.skills.list]]
+        skill = "Exchange"
+        level = "90%"
+
+        [[params.skills.list]]
+        skill = "VPN"
+        level = "95%"
+
+        [[params.skills.list]]
+        skill = "Duo"
+        level = "95%"
+
+        [[params.skills.list]]
+        skill = "Project Management"
+        level = "95%"
+
+        [[params.skills.list]]
+        skill = "Budget Administration"
+        level = "90%"
+
+        [[params.skills.list]]
+        skill = "SolarWinds"
+        level = "95%"
+
+        [[params.skills.list]]
+        skill = "ManageEngine"
+        level = "95%"
 
     # Footer section
 
