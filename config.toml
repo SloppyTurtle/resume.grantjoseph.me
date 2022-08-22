@@ -1,6 +1,6 @@
 # Page settings
 
-baseurl = "https://resume.grantjoseph.me"
+baseurl = "https://resume.grantjoseph.me/"
 languageCode = "en-us"
 title = "Grant Joseph Resume"
 theme = "hugo-orbit-theme"
