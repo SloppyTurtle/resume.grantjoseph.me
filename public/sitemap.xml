@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>resume.grantjoseph.me/categories/</loc>
+    <loc>https://resume.grantjoseph.me/categories/</loc>
   </url><url>
-    <loc>resume.grantjoseph.me/</loc>
+    <loc>https://resume.grantjoseph.me/</loc>
   </url><url>
-    <loc>resume.grantjoseph.me/tags/</loc>
+    <loc>https://resume.grantjoseph.me/tags/</loc>
   </url>
 </urlset>
