@@ -136,7 +136,7 @@ disable404 = true
         [[params.jobs.list]]
         position = "IT Manager"
         dates = "09/2020 - 10/2021"
-        company = "Amazon, London"
+        company = "JBS USA"
         details = "Managing and determining time frames for major information technology projects including system updates, upgrades, migrations and outages **-** Leading technical projects that include our electronic and automation teams **-** Managing and reporting on allocation of IT budget and purchasing **-** Support and manage all computer/network hardware at assigned location **-** Work with end users and propose new hardware and software solutions to support the business **-** Test all hardware, operating systems and software modifications before they are introduced into production **-** Provide hardware and software diagnostics for network, hardware and software issues **-** Overseeing technology projects in compliance with IT standards **-** Provide hardware and network support for “Production Floor” computer systems"
 
         [[params.jobs.list]]
