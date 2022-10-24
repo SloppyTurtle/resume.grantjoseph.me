@@ -41,7 +41,7 @@ disable404 = true
         [[params.contact.list]]
         class = "email"
         icon = "fa-envelope"
-        url = "mailto: grant@josephs.us"
+        url = "mailto: grantj1788@gmail.com"
         title = "grant@josephs.us"
 
         [[params.contact.list]]
