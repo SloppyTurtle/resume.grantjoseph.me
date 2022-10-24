@@ -113,7 +113,7 @@ disable404 = true
         enable = true
         icon = "fa-user"
         title = "Career Profile"
-        summary = "Staying up to date on current IT/IS practices, processes and technology to develop and initiate our organization's goals and objectives."
+        summary = "Information Security Professional with experience in regulatory compliance, systems security and best practices. I have a proven track record of leadership and problem solving to achieve desired results."
 
     # Experiences section
     [params.experiences]
