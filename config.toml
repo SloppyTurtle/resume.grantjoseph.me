@@ -197,83 +197,83 @@ disable404 = true
 
         [[params.skills.list]]
         skill = "Windows"
-        level = "98%"
+        level = "100%"
                 
         [[params.skills.list]]
         skill = "Linux"
-        level = "15%"
+        level = "100%"
 
         [[params.skills.list]]
         skill = "Active Directory"
-        level = "90%"
+        level = "100%"
 
         [[params.skills.list]]
         skill = "SecureWorks IDS"
-        level = "80%"
+        level = "100%"
 
         [[params.skills.list]]
         skill = "ESET"
-        level = "90%"
+        level = "100%"
 
         [[params.skills.list]]
         skill = "VMWare"
-        level = "9585%"
+        level = "100%"
 
         [[params.skills.list]]
         skill = "SentinelOne"
-        level = "95%"
+        level = "100%"
 
         [[params.skills.list]]
         skill = "Audit & Compliance"
-        level = "85%"
+        level = "100%"
 
         [[params.skills.list]]
         skill = "Proofpoint"
-        level = "90%"
+        level = "100%"
 
         [[params.skills.list]]
         skill = "Tenable"
-        level = "80%"
+        level = "100%"
 
         [[params.skills.list]]
         skill = "Graylog"
-        level = "60%"
+        level = "100%"
 
         [[params.skills.list]]
         skill = "KnowBe4"
-        level = "95%"
+        level = "100%"
 
         [[params.skills.list]]
         skill = "PCI Compliance"
-        level = "85%"
+        level = "100%"
 
         [[params.skills.list]]
         skill = "Exchange"
-        level = "90%"
+        level = "100%"
 
         [[params.skills.list]]
         skill = "VPN"
-        level = "95%"
+        level = "100%"
 
         [[params.skills.list]]
         skill = "Duo"
-        level = "95%"
+        level = "100%"
 
         [[params.skills.list]]
         skill = "Project Management"
-        level = "95%"
+        level = "100%"
 
         [[params.skills.list]]
         skill = "Budget Administration"
-        level = "90%"
+        level = "100%"
 
         [[params.skills.list]]
         skill = "SolarWinds"
-        level = "95%"
+        level = "100%"
 
         [[params.skills.list]]
         skill = "ManageEngine"
-        level = "95%"
+        level = "100%"
 
     # Footer section
 
