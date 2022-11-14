@@ -41,8 +41,8 @@ disable404 = true
         [[params.contact.list]]
         class = "email"
         icon = "fa-envelope"
-        url = "mailto: grant@josephs.us"
-        title = "grant@josephs.us"
+        url = "mailto: grantj1788@gmail.com"
+        title = "grantj1788@gmail.com"
 
         [[params.contact.list]]
         class = "phone"
@@ -113,7 +113,7 @@ disable404 = true
         enable = true
         icon = "fa-user"
         title = "Career Profile"
-        summary = "Staying up to date on current IT/IS practices, processes and technology to develop and initiate our organization's goals and objectives."
+        summary = "Information Security Professional with experience in regulatory compliance, systems security and best practices. I have a proven track record of leadership and problem solving to achieve desired results."
 
     # Experiences section
     [params.experiences]
@@ -125,13 +125,13 @@ disable404 = true
         position = "Information Technology Engineer"
         dates = "05/2022 - Present"
         company = "Central Laborers Pension Fund"
-        details = "Window Server/VMware administration and maintenance **-** PC, VoIP and Network management - Supporting Central Laborers’ security policies and activities for network, system and application vulnerability mitigation/management and continuous monitoring of said systems **-**  Setting and enforcing best practices related to security and continuing improvement of security protocols **-** Scan systems for vulnerabilities confirming adherence to security standards"
+        details = "Windows/Linux systems administration and maintenance. **-** PC, VoIP and Network management **-** Supporting Central Laborers' security policies and activities for network, system and application vulnerability management and mitigation. **-**  Evaluated existing systems to determine effectiveness and suggested changes to meet organizational requirements. **-** Tenable Nessus scanning and monitoring of said systems. **-** Setting and enforcing best practices related to security and continuing improvement of security protocols. **-** Tested and verified software patches to restore or enhance system performance."
 
         [[params.jobs.list]]
         position = "IT/IS Officer"
         dates = "10/2021 - 05/2022"
         company = "Alliance Community Bank"
-        details = "I oversee the direction and operation of the technical infrastructure of the organization, management of projects, budgets, and vendor relationships **-** I am responsible for information security and IT risk management based on industry accepted frameworks **-** I manage our cyber security structure, policies and processes and I am the chair of our IT committee **-** I am a hands-on manager who is the primary technical-infrastructure and security expert in the company. This includes PC and network (LAN/WAN) support and planning, information security and VOIP system/voice communications **-** I also serve as the primary liaison with bank audit and regulatory examination teams to ensure the safe, secure, and compliant im- plementation of industry and bank regulatory policy requirements and regulations"
+        details = "I oversee the direction and operation of the technical infrastructure of the organization, management of projects, budgets, and vendor relationships **-** I am responsible for information security and IT risk management based on industry accepted frameworks **-** I manage our cyber security structure, policies and processes and I am the chair of our IT committee **-** I am a hands-on manager who is the primary technical-infrastructure and security expert in the company. This includes PC and network (LAN/WAN) support and planning, information security and VOIP system/voice communications **-** I also serve as the primary liaison with bank audit and regulatory examination teams to ensure the safe, secure, and compliant im- plementation of industry and bank regulatory policy requirements and regulations **-** Trained users via KnowBe4 and promoted security awareness to boost system security and improve server and network efficiency. **-** Monitored current ESET and SecureWorks reports for vulnerabilities **-** I managed patches, data backups and security changes"
 
         [[params.jobs.list]]
         position = "IT Manager"
@@ -285,4 +285,4 @@ disable404 = true
     # As for Hugo port you may rewrite the "Ported for..." line with setting your name below.
 
     [params.footer]
-        copyright = ""
+        copyright = "Grant Joseph"
