@@ -31,7 +31,7 @@ disable404 = true
     # Profile section
     [params.profile]
         name = "Grant Joseph"
-        tagline = "Security Professional"
+        tagline = "Systems Engineer"
         avatar = ""
 
     # Contact section
@@ -113,7 +113,7 @@ disable404 = true
         enable = true
         icon = "fa-user"
         title = "Career Profile"
-        summary = "Information Security Professional with experience in regulatory compliance, systems security and best practices. I have a proven track record of leadership and problem solving to achieve desired results."
+        summary = "Responsible for designing, building, deploying, evaluating, and maintaining IT infrastructure using the latest technology to ensure reliability to all IT systems that support the business are efficient and seamless."
 
     # Experiences section
     [params.experiences]
@@ -122,13 +122,13 @@ disable404 = true
         title = "Experiences"
 
         [[params.jobs.list]]
-        position = "Information Technology Engineer"
+        position = "Systems Engineer"
         dates = "05/2022 - Present"
         company = "Central Laborers Pension Fund"
-        details = "Windows/Linux systems administration and maintenance. **-** PC, VoIP and Network management **-** Supporting Central Laborers' security policies and activities for network, system and application vulnerability management and mitigation. **-**  Evaluated existing systems to determine effectiveness and suggested changes to meet organizational requirements. **-** Tenable Nessus scanning and monitoring of said systems. **-** Setting and enforcing best practices related to security and continuing improvement of security protocols. **-** Tested and verified software patches to restore or enhance system performance."
+        details = "Windows/Linux systems administration and maintenance. **-** Installing and supporting system hardware and software, performing system upgrades and evaluating and installing patches and software updates. This also includes managing system alerts, triaging incidents, and reporting findings. **-** Supporting Central Laborers' security policies and activities for network, system and application vulnerability management and mitigation **-**  Administering and configuring DNS/DHCP/AD/VMWare/Network devices such as switches, routers, and wireless access points **-** •	Managing backup and recovery with Veeam"
 
         [[params.jobs.list]]
-        position = "IT/IS Officer"
+        position = "Information Systems Security Officer"
         dates = "10/2021 - 05/2022"
         company = "Alliance Community Bank"
         details = "I oversee the direction and operation of the technical infrastructure of the organization, management of projects, budgets, and vendor relationships **-** I am responsible for information security and IT risk management based on industry accepted frameworks **-** I manage our cyber security structure, policies and processes and I am the chair of our IT committee **-** I am a hands-on manager who is the primary technical-infrastructure and security expert in the company. This includes PC and network (LAN/WAN) support and planning, information security and VOIP system/voice communications **-** I also serve as the primary liaison with bank audit and regulatory examination teams to ensure the safe, secure, and compliant im- plementation of industry and bank regulatory policy requirements and regulations **-** Trained users via KnowBe4 and promoted security awareness to boost system security and improve server and network efficiency. **-** Monitored current ESET and SecureWorks reports for vulnerabilities **-** I managed patches, data backups and security changes"
