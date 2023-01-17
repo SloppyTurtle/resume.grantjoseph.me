@@ -125,7 +125,7 @@ disable404 = true
         position = "Systems Engineer"
         dates = "05/2022 - Present"
         company = "Central Laborers Pension Fund"
-        details = "Windows/Linux systems administration and maintenance. **-** Installing and supporting system hardware and software, performing system upgrades and evaluating and installing patches and software updates. This also includes managing system alerts, triaging incidents, and reporting findings. **-** Supporting Central Laborers' security policies and activities for network, system and application vulnerability management and mitigation **-**  Administering and configuring DNS/DHCP/AD/VMWare/Network devices such as switches, routers, and wireless access points **-** •	Managing backup and recovery with Veeam"
+        details = "Windows/Linux systems administration and maintenance. **-** Installing and supporting system hardware and software, performing system upgrades and evaluating and installing patches and software updates. This also includes managing system alerts, triaging incidents, and reporting findings. **-** Supporting Central Laborers' security policies and activities for network, system and application vulnerability management and mitigation **-**  Administering and configuring DNS/DHCP/AD/VMWare/Network devices such as switches, routers, and wireless access points **-** Managing backup and recovery with Veeam"
 
         [[params.jobs.list]]
         position = "Information Systems Security Officer"
